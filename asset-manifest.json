@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Movie-Trailer-App/static/css/main.87a1ad6c.css",
+    "main.js": "/Movie-Trailer-App/static/js/main.b794c419.js",
+    "reactPlayerYouTube.js": "/Movie-Trailer-App/static/js/reactPlayerYouTube.6a174bb4.chunk.js",
+    "reactPlayerSoundCloud.js": "/Movie-Trailer-App/static/js/reactPlayerSoundCloud.1fb64bd1.chunk.js",
+    "reactPlayerVimeo.js": "/Movie-Trailer-App/static/js/reactPlayerVimeo.e08a9e03.chunk.js",
+    "reactPlayerMux.js": "/Movie-Trailer-App/static/js/reactPlayerMux.81f5597b.chunk.js",
+    "reactPlayerFacebook.js": "/Movie-Trailer-App/static/js/reactPlayerFacebook.27a96c47.chunk.js",
+    "reactPlayerStreamable.js": "/Movie-Trailer-App/static/js/reactPlayerStreamable.f1ef88c1.chunk.js",
+    "reactPlayerWistia.js": "/Movie-Trailer-App/static/js/reactPlayerWistia.d24182ee.chunk.js",
+    "reactPlayerTwitch.js": "/Movie-Trailer-App/static/js/reactPlayerTwitch.dcd672ec.chunk.js",
+    "reactPlayerDailyMotion.js": "/Movie-Trailer-App/static/js/reactPlayerDailyMotion.ec82c590.chunk.js",
+    "reactPlayerMixcloud.js": "/Movie-Trailer-App/static/js/reactPlayerMixcloud.cc37efb3.chunk.js",
+    "reactPlayerVidyard.js": "/Movie-Trailer-App/static/js/reactPlayerVidyard.935a961e.chunk.js",
+    "reactPlayerKaltura.js": "/Movie-Trailer-App/static/js/reactPlayerKaltura.ba6f448f.chunk.js",
+    "reactPlayerFilePlayer.js": "/Movie-Trailer-App/static/js/reactPlayerFilePlayer.485a3184.chunk.js",
+    "reactPlayerPreview.js": "/Movie-Trailer-App/static/js/reactPlayerPreview.edcd997e.chunk.js",
+    "index.html": "/Movie-Trailer-App/index.html",
+    "main.87a1ad6c.css.map": "/Movie-Trailer-App/static/css/main.87a1ad6c.css.map",
+    "main.b794c419.js.map": "/Movie-Trailer-App/static/js/main.b794c419.js.map",
+    "reactPlayerYouTube.6a174bb4.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerYouTube.6a174bb4.chunk.js.map",
+    "reactPlayerSoundCloud.1fb64bd1.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerSoundCloud.1fb64bd1.chunk.js.map",
+    "reactPlayerVimeo.e08a9e03.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerVimeo.e08a9e03.chunk.js.map",
+    "reactPlayerMux.81f5597b.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerMux.81f5597b.chunk.js.map",
+    "reactPlayerFacebook.27a96c47.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerFacebook.27a96c47.chunk.js.map",
+    "reactPlayerStreamable.f1ef88c1.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerStreamable.f1ef88c1.chunk.js.map",
+    "reactPlayerWistia.d24182ee.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerWistia.d24182ee.chunk.js.map",
+    "reactPlayerTwitch.dcd672ec.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerTwitch.dcd672ec.chunk.js.map",
+    "reactPlayerDailyMotion.ec82c590.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerDailyMotion.ec82c590.chunk.js.map",
+    "reactPlayerMixcloud.cc37efb3.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerMixcloud.cc37efb3.chunk.js.map",
+    "reactPlayerVidyard.935a961e.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerVidyard.935a961e.chunk.js.map",
+    "reactPlayerKaltura.ba6f448f.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerKaltura.ba6f448f.chunk.js.map",
+    "reactPlayerFilePlayer.485a3184.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerFilePlayer.485a3184.chunk.js.map",
+    "reactPlayerPreview.edcd997e.chunk.js.map": "/Movie-Trailer-App/static/js/reactPlayerPreview.edcd997e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a1ad6c.css",
+    "static/js/main.b794c419.js"
+  ]
+}
